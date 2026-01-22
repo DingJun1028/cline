@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.3",
-    "@types/node": "^18.11.18",
+    "@types/node": "^18.19.130",
     "@types/node-fetch": "^2.6.12",
     "@types/uuid": "^9.0.0",
     "@types/yargs": "^17.0.19",
